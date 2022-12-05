@@ -10,11 +10,11 @@ body {
     min-height: 100vh;
     display: flex;
     align-items: center;
-    /* justify-content: center; */
-    /* background-image: url(/in.jpeg); */
-    background-image: url(../kristin/in.jpg);
-    background-size: 90% 90%;
-    /* background-image: linear-gradient(120deg, #f093fb 0%, #f5576c 100%); */
+    justify-content: center;
+    justify-items: center;
+    background-image: url(itin.jpg);
+    background-size: 100%;
+
 
 }
 
